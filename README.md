@@ -11,7 +11,7 @@ Proyecto hecho en el curso de FrontEnd ReactJS de Coderhouse enfocado en una tie
 # Instalación
 
 Este proyecto requiere de NodeJS para su ejecución.
-
+```
 git bash
 npm install
 npm start
